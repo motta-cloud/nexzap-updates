@@ -1,16 +1,16 @@
 {
   "ok": true,
   "version": "5.7.0",
-  "build_hash": "B4B0399B0685",
-  "released_at": "23/11/2026 03:34:13",
+  "build_hash": "FCCF52D7AB80",
+  "released_at": "23/11/2026 04:04:32",
   "files": {
     "server.py": {
-      "sha256": "3bbfe1c672a6ea2758d89686a7969826a75116c82e692361c214c6042672889d",
-      "size": 284712
+      "sha256": "51022a0c935d03253da7fefc82dea1f2e375498b7d1a2793588b6e20ac2cf1d0",
+      "size": 289895
     },
     "whatsapp_engine.py": {
-      "sha256": "8289a5ae43ca24c0b3fec56d46714ec9d59292b2c9beb3d6c11b866c43c05217",
-      "size": 123395
+      "sha256": "af9ab8bc66e865e09cbd99259c94957c13d1b549353b44811cf46204f3f6e1c5",
+      "size": 133914
     },
     "INSTALAR_E_ABRIR_NEXZAP.bat": {
       "sha256": "24780f33d114e93328a76e81fabeed4728a0a53f72b64c6ff4007e6bd35b71f5",
@@ -21,16 +21,16 @@
       "size": 1558
     },
     "public/index.html": {
-      "sha256": "4c16528962ef925f8ba783d03bf9ae778381ca0099eeffbe184ef1d3e6f5623a",
-      "size": 163997
+      "sha256": "7127a673d1dfe90a188efff61d1cdf4c865f7127ce88233858ca412009a05926",
+      "size": 167534
     },
     "public/styles.css": {
       "sha256": "6d8bb3617aadf69aadd6d6663dfffaac03653e65f1d573e2e474659554a11ed0",
       "size": 31037
     },
     "public/app.js": {
-      "sha256": "4cde970ad344d56870344162cb652f6f12b6ef22429d64411791ff873f533aa8",
-      "size": 220124
+      "sha256": "ef013ce6804cc7e46dbb8866df5f43a6bb9d823bc03bf03ad27ff52a7ab4820e",
+      "size": 243352
     },
     "public/manifest.json": {
       "sha256": "8e1baf436d87cc530881bd7cefef40ef734fb7167cd2ef9b948f6bc159dd4b1e",
@@ -59,7 +59,7 @@
   },
   "encryption": "NXZP57-PBKDF2-HMAC-SHA512-150K-AEAD-SHA256",
   "bundle_filename": "update-bundle.nxcrypt",
-  "bundle_size": 1296720,
-  "encrypted_sha256": "8352487e49ceff26f00b217a092980d6cf973934ebe9f14bc9b724bb6e8093c3",
-  "vault_signature": "FF769838AC184CF7C0808E9FF79891C04CC68E508DD4B3DA444504ADD7ADE2D4"
+  "bundle_size": 1306691,
+  "encrypted_sha256": "52630c736c7b703b7fd0a6abd306c9a154992fa438a7a5476c1c7cd37f90c611",
+  "vault_signature": "4AC9A99F817AD346A2C8B94E438B9F4077F832C8CC08A56572B6E6ABBF82471F"
 }
