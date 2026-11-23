@@ -1,16 +1,17 @@
 {
   "ok": true,
   "version": "5.7.0",
-  "build_hash": "FCCF52D7AB80",
-  "released_at": "23/11/2026 04:04:32",
+  "build_hash": "589AE382CB4D",
+  "build_timestamp": 1795427324,
+  "released_at": "23/11/2026 06:49:09",
   "files": {
     "server.py": {
-      "sha256": "51022a0c935d03253da7fefc82dea1f2e375498b7d1a2793588b6e20ac2cf1d0",
-      "size": 289895
+      "sha256": "538f6010528aa6bd4f7e995b0fd258db2e3dce750904a7c07d0a8a6a8536683c",
+      "size": 287143
     },
     "whatsapp_engine.py": {
-      "sha256": "af9ab8bc66e865e09cbd99259c94957c13d1b549353b44811cf46204f3f6e1c5",
-      "size": 133914
+      "sha256": "6500feb08c799b0bea93049d1d02ddff0520f56f468eaf701d47bc5b3699b5cc",
+      "size": 134489
     },
     "INSTALAR_E_ABRIR_NEXZAP.bat": {
       "sha256": "24780f33d114e93328a76e81fabeed4728a0a53f72b64c6ff4007e6bd35b71f5",
@@ -29,8 +30,8 @@
       "size": 31037
     },
     "public/app.js": {
-      "sha256": "ef013ce6804cc7e46dbb8866df5f43a6bb9d823bc03bf03ad27ff52a7ab4820e",
-      "size": 243352
+      "sha256": "ad6358c1aa11a9614490bf92c2f005211c2e4abd66be233d0778d8d5b3d911d9",
+      "size": 241999
     },
     "public/manifest.json": {
       "sha256": "8e1baf436d87cc530881bd7cefef40ef734fb7167cd2ef9b948f6bc159dd4b1e",
@@ -59,7 +60,7 @@
   },
   "encryption": "NXZP57-PBKDF2-HMAC-SHA512-150K-AEAD-SHA256",
   "bundle_filename": "update-bundle.nxcrypt",
-  "bundle_size": 1306691,
-  "encrypted_sha256": "52630c736c7b703b7fd0a6abd306c9a154992fa438a7a5476c1c7cd37f90c611",
-  "vault_signature": "4AC9A99F817AD346A2C8B94E438B9F4077F832C8CC08A56572B6E6ABBF82471F"
+  "bundle_size": 1305840,
+  "encrypted_sha256": "a2a085ef35c6fb237394fe10331b39856089eb87627df835ee3b5fa46e6d4189",
+  "vault_signature": "CFEB4958126109CDE7B44BBC8ABEFEA863AA1C266D17FF44997A216CF24672C5"
 }
