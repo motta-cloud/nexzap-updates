@@ -1,0 +1,65 @@
+{
+  "ok": true,
+  "version": "5.7.0",
+  "build_hash": "B4B0399B0685",
+  "released_at": "23/11/2026 03:34:13",
+  "files": {
+    "server.py": {
+      "sha256": "3bbfe1c672a6ea2758d89686a7969826a75116c82e692361c214c6042672889d",
+      "size": 284712
+    },
+    "whatsapp_engine.py": {
+      "sha256": "8289a5ae43ca24c0b3fec56d46714ec9d59292b2c9beb3d6c11b866c43c05217",
+      "size": 123395
+    },
+    "INSTALAR_E_ABRIR_NEXZAP.bat": {
+      "sha256": "24780f33d114e93328a76e81fabeed4728a0a53f72b64c6ff4007e6bd35b71f5",
+      "size": 1789
+    },
+    "CRIAR_ATALHO_AREA_DE_TRABALHO.vbs": {
+      "sha256": "29f63c8e4a2d838c39b141decb6c0263063fb7af9126116dfc443ec0aae1ee50",
+      "size": 1558
+    },
+    "public/index.html": {
+      "sha256": "4c16528962ef925f8ba783d03bf9ae778381ca0099eeffbe184ef1d3e6f5623a",
+      "size": 163997
+    },
+    "public/styles.css": {
+      "sha256": "6d8bb3617aadf69aadd6d6663dfffaac03653e65f1d573e2e474659554a11ed0",
+      "size": 31037
+    },
+    "public/app.js": {
+      "sha256": "4cde970ad344d56870344162cb652f6f12b6ef22429d64411791ff873f533aa8",
+      "size": 220124
+    },
+    "public/manifest.json": {
+      "sha256": "8e1baf436d87cc530881bd7cefef40ef734fb7167cd2ef9b948f6bc159dd4b1e",
+      "size": 637
+    },
+    "public/favicon.ico": {
+      "sha256": "75d6726a393f27da3bfaf5cc8e5a80000c1e83e9f110a129edd8397f3e13dbb0",
+      "size": 7690
+    },
+    "public/brand/nexzap_icon.ico": {
+      "sha256": "75d6726a393f27da3bfaf5cc8e5a80000c1e83e9f110a129edd8397f3e13dbb0",
+      "size": 7690
+    },
+    "public/brand/nexzap_icon_256.png": {
+      "sha256": "7489f895c4a4be8ed82cae17ebacdd61788865f46ccb095efb91661aa1e2f22c",
+      "size": 3420
+    },
+    "public/brand/nexzap_avatar_oficial.jpg": {
+      "sha256": "14a8f5ea6960493b9bba5255268cd96e0c98c22b65670f85ad81e5d9d8341e63",
+      "size": 433554
+    },
+    "public/brand/nexzap_capa_oficial.jpg": {
+      "sha256": "76cf84802aaca2d7577c046354a576ff8552e5b225d65370775fe4ce13a1b602",
+      "size": 674330
+    }
+  },
+  "encryption": "NXZP57-PBKDF2-HMAC-SHA512-150K-AEAD-SHA256",
+  "bundle_filename": "update-bundle.nxcrypt",
+  "bundle_size": 1296720,
+  "encrypted_sha256": "8352487e49ceff26f00b217a092980d6cf973934ebe9f14bc9b724bb6e8093c3",
+  "vault_signature": "FF769838AC184CF7C0808E9FF79891C04CC68E508DD4B3DA444504ADD7ADE2D4"
+}
