@@ -1,17 +1,17 @@
 {
   "ok": true,
   "version": "5.7.0",
-  "build_hash": "589AE382CB4D",
-  "build_timestamp": 1795427324,
-  "released_at": "23/11/2026 06:49:09",
+  "build_hash": "006005FF3091",
+  "build_timestamp": 1795552529,
+  "released_at": "24/11/2026 17:35:48",
   "files": {
     "server.py": {
-      "sha256": "538f6010528aa6bd4f7e995b0fd258db2e3dce750904a7c07d0a8a6a8536683c",
-      "size": 287143
+      "sha256": "c5670e7f0b2810ffea61fa76b2feefc3e62b7829ed4df72de42d4613b88bc947",
+      "size": 304416
     },
     "whatsapp_engine.py": {
-      "sha256": "6500feb08c799b0bea93049d1d02ddff0520f56f468eaf701d47bc5b3699b5cc",
-      "size": 134489
+      "sha256": "1ed6926dd0e155483443ecdee723bf7ebf158b31e67baffcde7ece7cf9489237",
+      "size": 116846
     },
     "INSTALAR_E_ABRIR_NEXZAP.bat": {
       "sha256": "24780f33d114e93328a76e81fabeed4728a0a53f72b64c6ff4007e6bd35b71f5",
@@ -22,16 +22,16 @@
       "size": 1558
     },
     "public/index.html": {
-      "sha256": "7127a673d1dfe90a188efff61d1cdf4c865f7127ce88233858ca412009a05926",
-      "size": 167534
+      "sha256": "b94a0aeab4bf5e6c17351a098ce527cd940138b97fbd9d372c5bc63cb1cfd136",
+      "size": 167540
     },
     "public/styles.css": {
       "sha256": "6d8bb3617aadf69aadd6d6663dfffaac03653e65f1d573e2e474659554a11ed0",
       "size": 31037
     },
     "public/app.js": {
-      "sha256": "ad6358c1aa11a9614490bf92c2f005211c2e4abd66be233d0778d8d5b3d911d9",
-      "size": 241999
+      "sha256": "8f1b5b0b2f092ec1af76f0afe0324120280cf9892f20501e4d1946942920b115",
+      "size": 242340
     },
     "public/manifest.json": {
       "sha256": "8e1baf436d87cc530881bd7cefef40ef734fb7167cd2ef9b948f6bc159dd4b1e",
@@ -60,7 +60,7 @@
   },
   "encryption": "NXZP57-PBKDF2-HMAC-SHA512-150K-AEAD-SHA256",
   "bundle_filename": "update-bundle.nxcrypt",
-  "bundle_size": 1305840,
-  "encrypted_sha256": "a2a085ef35c6fb237394fe10331b39856089eb87627df835ee3b5fa46e6d4189",
-  "vault_signature": "CFEB4958126109CDE7B44BBC8ABEFEA863AA1C266D17FF44997A216CF24672C5"
+  "bundle_size": 1307530,
+  "encrypted_sha256": "aebd9ac07027aeba213bee6d259d5b1398f3c3d0f233238e3950b5a48214e1b6",
+  "vault_signature": "5D3BE912E3165FB3CBD98A170E66594762529EAEEB4B78AAD1320E0C0636F514"
 }
